@@ -1,2 +1,3 @@
 # create-babel-plungin
-新建一个babel插件
+
+使用npm run build 进行测试 
